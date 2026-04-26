@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+This is a console C application for laboratory work №2.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+Run the program using terminal after compilation. **Safiulin Artem gr12b**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+gcc -o labrabota2-1 src/main.c
